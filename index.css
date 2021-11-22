@@ -1,0 +1,45 @@
+body{
+  margin:0px;
+  background:black
+}
+#background-img{
+  height:76vh;
+  background-image: linear-gradient(to top,rgba(0,0,0,.8) 0,rgba(0,0,0,0) 60%,rgba(0,0,0,.8) 100%), url(https://assets.nflxext.com/ffe/siteui/vlv3/5dd45df7-33f1-4274-97ea-e9c6aca69dad/ed1cb962-411d-4e43-bad2-33f07ae8e341/IN-en-20211108-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+  background-size:cover;
+  margin:0px;
+  border-bottom: 10px solid #222222;
+}
+
+.our-story-card-title{
+  color: white;
+  font-size: 4.125rem;
+  max-width: 640px;
+  text-align: center;
+  padding-top: 10%;
+  margin: auto;
+  font-weight: bold;
+}
+
+.sub-text{
+  color: white;
+  margin: auto;
+  text-align: center;
+  max-width: 640px;
+  font-size: 30px;
+  padding: 2% 0%;
+}
+
+.sub-text-two{
+  color: white;
+  margin: auto;
+  text-align: center;
+  max-width: 640px;
+}
+
+.header{
+  padding: 1%;
+}
+
+#netflix-logo{
+  padding: 1% 2%;
+}
